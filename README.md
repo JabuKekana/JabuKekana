@@ -2,11 +2,15 @@ I am a creative IT professional with a passion for finding innovative solutions 
 
 👋 Hi, I’m @JabuKekana
 
-{/} My experience encompasses Front End Development using: 
+{/} My experience encompasses Software Development using: 
 
 - HTML
 - CSS
 - JavaScript
+- TypeScript
+- Node Js
+- Express JS
+- PostgresSQL
 - Boostrap
 - JQuery
 - React JS. 
