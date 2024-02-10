@@ -13,17 +13,14 @@ I am a creative IT professional with a passion for finding innovative solutions 
 - PostgresSQL
 - Boostrap
 - JQuery
-- React JS. 
+- React JS.
+- SQL
+- C#
 - API's
- 
-</> Having had exposure to Programming Languages like:
-
 - JAVA
-- C# 
 - C++
 - SQL
- 
-I am investing considerable time in Mobile/Desktop app development.
+
 
 🌎 Website: https://jabukekana.co.za/
 📞 Phone: +27 79 056 8506
