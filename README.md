@@ -8,20 +8,21 @@ I am a creative IT professional with a passion for finding innovative solutions 
 - CSS
 - JavaScript
 - TypeScript
+- React JS.
 - Node Js
 - Express JS
 - PostgresSQL
 - Boostrap
 - JQuery
-- React JS.
 - SQL
 - C#
-- AWS S3
-- API's
 - JAVA
+- AWS S3
+- Firebase
+- Langchain.js
+- Tensorflow.js
+- API's
 - C++
-- SQL
-
 
 🌎 Website: https://jabukekana.co.za/
 📞 Phone: +27 79 056 8506
