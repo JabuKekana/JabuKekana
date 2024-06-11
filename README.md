@@ -16,6 +16,7 @@ I am a creative IT professional with a passion for finding innovative solutions 
 - React JS.
 - SQL
 - C#
+- AWS S3
 - API's
 - JAVA
 - C++
